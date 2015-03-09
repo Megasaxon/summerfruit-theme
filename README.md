@@ -6,17 +6,20 @@ which itself is a port of [an old vim theme](http://www.vim.org/scripts/script.p
 This port was created by converting it from the Textmate theme, then _slightly_
 adjusting gutter margin & color as well as the invisibles to my liking.
 
+Then changed to having a dark background because white backgrounds are Satan's playthings.
+
 
 ## Screenshot
 
-![Screenshot of theme showing Ruby code](https://raw.githubusercontent.com/carlo/summerfruit-theme/master/summerfruit-theme.png)
+![Screenshot of theme showing PHP code](https://raw.githubusercontent.com/Megasaxon/summerfruit-theme/master/summerfruit-theme.png)
 
 
 ## Developers
 
-Original vim theme by [Armin Ronacher](http://www.vim.org/scripts/script.php?script_id=1872),
-tmTheme port by [Adrian Demleitner](https://github.com/thgie),
-Atom port of tmTheme (+ minor adjustments) by [Carlo Zottmann](https://github.com/carlo).
+Original vim theme by [Armin Ronacher](http://www.vim.org/scripts/script.php?script_id=1872), 
+tmTheme port by [Adrian Demleitner](https://github.com/thgie), 
+Atom port of tmTheme (+ minor adjustments) by [Carlo Zottmann](https://github.com/carlo), 
+Darkification by [Craig Rose](https://github.com/Megasaxon).
 
 
 ## License
